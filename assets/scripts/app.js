@@ -57,7 +57,7 @@ const Portfolio = function() {
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"AWS Certified Solution Architect.", "Microsoft, Cisco & VMware Certified.", "DevOps| SysOps| AWS-CSA| Microsoft,Cisco & VMware Certified "
+				"AWS Certified Solution Architect.", "Microsoft, Cisco & VMware Certified.", "DevOps| SysOps| AWS-CSA| Microsoft,Cisco & VMware Certified ","Chatbot Expert"
 
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
